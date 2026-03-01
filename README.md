@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Deepak%20Kumar%20Tamta&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+</p>
 <h1 align="center">Hi 👋, I'm Deepak Kumar Tamta</h1>
 
 <h3 align="center">🚀 Data Scientist | 📊 Machine Learning Engineer | 🐍 Python Developer</h3>
