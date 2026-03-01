@@ -1,8 +1,22 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=280&section=header&text=Deepak%20Kumar%20Tamta&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Turning%20Data%20into%20Insights%20%7C%20ML%20Engineer%20%7C%20Python%20Developer&descAlignY=60&descAlign=50" width="100%"/>
-</p>
-</p>
-</p>
+<svg width="1584" height="396" viewBox="0 0 1584 396" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1584" height="396" fill="#0F172A"/>
+  <path d="M0 200C300 100 600 300 900 200C1200 100 1500 250 1584 150V396H0V200Z" fill="url(#paint0_linear)" fill-opacity="0.2"/>
+  
+  <circle cx="200" cy="150" r="3" fill="#38BDF8" />
+  <circle cx="450" cy="280" r="4" fill="#818CF8" />
+  <circle cx="800" cy="100" r="3" fill="#38BDF8" />
+  <circle cx="1200" cy="250" r="5" fill="#C084FC" />
+  
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-weight="800" font-size="60" fill="white">DATA SCIENCE</text>
+  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-weight="300" font-size="24" fill="#94A3B8" letter-spacing="8">INSIGHTS • ANALYSIS • PREDICTION</text>
+
+  <defs>
+    <linearGradient id="paint0_linear" x1="792" y1="100" x2="792" y2="396" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+</svg>
 <h1 align="center">Hi 👋, I'm Deepak Kumar Tamta</h1>
 
 <h3 align="center">🚀 Data Scientist | 📊 Machine Learning Engineer | 🐍 Python Developer</h3>
