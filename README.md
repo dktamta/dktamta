@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=280&section=header&text=Deepak%20Kumar%20Tamta&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Turning%20Data%20into%20Insights%20%7C%20ML%20Engineer%20%7C%20Python%20Developer&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=260&section=header&text=Deepak%20Kumar%20Tamta&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer%20%7C%20Python%20Developer&descAlignY=60&descAlign=50" width="100%"/>
 </p>
 <h1 align="center">Hi 👋, I'm Deepak Kumar Tamta</h1>
 
