@@ -1,17 +1,6 @@
-<svg width="1584" height="396" viewBox="0 0 1584 396" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1584" height="396" fill="#050505"/>
-  
-  <line x1="100" y1="100" x2="300" y2="250" stroke="#22D3EE" stroke-width="0.5" stroke-dasharray="4 4" />
-  <line x1="300" y1="250" x2="500" y2="150" stroke="#22D3EE" stroke-width="0.5" />
-  <line x1="500" y1="150" x2="800" y2="300" stroke="#22D3EE" stroke-width="0.5" />
-  
-  <circle cx="300" cy="250" r="4" fill="#22D3EE">
-    <animate attributeName="r" values="3;5;3" dur="3s" repeatCount="indefinite" />
-  </circle>
-  
-  <rect x="542" y="148" width="500" height="100" rx="10" stroke="#22D3EE" stroke-width="1" />
-  <text x="792" y="205" dominant-baseline="middle" text-anchor="middle" font-family="Courier New, monospace" font-weight="bold" font-size="40" fill="#22D3EE">0101_DATA_STRATEGIST</text>
-</svg>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=260&section=header&text=Deepak%20Kumar%20Tamta&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer%20%7C%20Python%20Developer&descAlignY=60&descAlign=50" width="100%"/>
+</p>
 <h1 align="center">Hi 👋, I'm Deepak Kumar Tamta</h1>
 
 <h3 align="center">🚀 Data Scientist | 📊 Machine Learning Engineer | 🐍 Python Developer</h3>
