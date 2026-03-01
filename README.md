@@ -30,7 +30,7 @@ Focused on solving real-world business problems using data-driven strategies.
 - 🌱 Learning Deep Learning & MLOps  
 - 📊 Experienced in EDA, Feature Engineering & Model Evaluation  
 - 🧪 Strong understanding of Supervised & Unsupervised Learning  
-- 🎯 Career Goal: AI / ML Engineer  
+- 🎯 Career Goal: Data Scientist
 
 <!-- Profile Views + Followers -->
 <p align="center">
