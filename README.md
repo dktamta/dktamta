@@ -121,11 +121,11 @@ Time series & data visualization project identifying economic patterns.
 
 ---
 
-## 📊 GitHub Stats 
+## 📊 GitHub Stats (Active Since Oct 2025)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" />
 </p>
 
 ---
