@@ -36,32 +36,61 @@ Focused on solving real-world business problems using data-driven strategies.
 ### 👨‍💻 Programming & Database
 
 <p align="center">
+<a href="https://www.python.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55"/>
+</a>
 </p>
 
 ### 📊 Data Analysis
 
 <p align="center">
+<a href="https://pandas.pydata.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
+</a>
+
+<a href="https://numpy.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/>
+</a>
 </p>
 
 ### 🤖 Machine Learning
 
 <p align="center">
+<a href="https://scikit-learn.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55"/>
+</a>
+
+<a href="https://www.tensorflow.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55"/>
+</a>
+
+<a href="https://keras.io/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="55"/>
+</a>
 </p>
 
 ### 📈 Visualization & Dashboards
 
 <p align="center">
+<a href="https://matplotlib.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55"/>
+</a>
+
+<a href="https://plotly.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="55"/>
+</a>
+
+<a href="https://streamlit.io/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="55"/>
+</a>
 </p>
 
 ---
