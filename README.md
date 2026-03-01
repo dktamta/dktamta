@@ -123,7 +123,7 @@ Time series & data visualization project identifying economic patterns.
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/deepak-tamta/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="55"/>
   </a>
   <a href="mailto:YOUR_EMAIL">
