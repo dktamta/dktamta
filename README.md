@@ -1,21 +1,16 @@
 <svg width="1584" height="396" viewBox="0 0 1584 396" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1584" height="396" fill="#0F172A"/>
-  <path d="M0 200C300 100 600 300 900 200C1200 100 1500 250 1584 150V396H0V200Z" fill="url(#paint0_linear)" fill-opacity="0.2"/>
+  <rect width="1584" height="396" fill="#050505"/>
   
-  <circle cx="200" cy="150" r="3" fill="#38BDF8" />
-  <circle cx="450" cy="280" r="4" fill="#818CF8" />
-  <circle cx="800" cy="100" r="3" fill="#38BDF8" />
-  <circle cx="1200" cy="250" r="5" fill="#C084FC" />
+  <line x1="100" y1="100" x2="300" y2="250" stroke="#22D3EE" stroke-width="0.5" stroke-dasharray="4 4" />
+  <line x1="300" y1="250" x2="500" y2="150" stroke="#22D3EE" stroke-width="0.5" />
+  <line x1="500" y1="150" x2="800" y2="300" stroke="#22D3EE" stroke-width="0.5" />
   
-  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-weight="800" font-size="60" fill="white">DATA SCIENCE</text>
-  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-weight="300" font-size="24" fill="#94A3B8" letter-spacing="8">INSIGHTS • ANALYSIS • PREDICTION</text>
-
-  <defs>
-    <linearGradient id="paint0_linear" x1="792" y1="100" x2="792" y2="396" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#38BDF8"/>
-      <stop offset="1" stop-color="#0F172A"/>
-    </linearGradient>
-  </defs>
+  <circle cx="300" cy="250" r="4" fill="#22D3EE">
+    <animate attributeName="r" values="3;5;3" dur="3s" repeatCount="indefinite" />
+  </circle>
+  
+  <rect x="542" y="148" width="500" height="100" rx="10" stroke="#22D3EE" stroke-width="1" />
+  <text x="792" y="205" dominant-baseline="middle" text-anchor="middle" font-family="Courier New, monospace" font-weight="bold" font-size="40" fill="#22D3EE">0101_DATA_STRATEGIST</text>
 </svg>
 <h1 align="center">Hi 👋, I'm Deepak Kumar Tamta</h1>
 
