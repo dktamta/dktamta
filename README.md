@@ -133,11 +133,16 @@ Time series & data visualization project identifying economic patterns.
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/deepak-tamta/">
+  <a href="https://www.linkedin.com/in/deepak-tamta/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="55"/>
   </a>
- <a href="https://github.com/dktamta">
+
+  <a href="https://github.com/dktamta" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="55"/>
+  </a>
+
+  <a href="https://www.kaggle.com/dktamta" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="55"/>
   </a>
 </p>
 
