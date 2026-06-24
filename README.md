@@ -136,13 +136,7 @@ Time series & data visualization project identifying economic patterns.
   <a href="https://www.linkedin.com/in/deepak-tamta/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="55"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="55"/>
-  </a>
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="55"/>
-  </a>
-  <a href="https://github.com/dktamta">
+ <a href="https://github.com/dktamta">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="55"/>
   </a>
 </p>
