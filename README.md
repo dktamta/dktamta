@@ -136,7 +136,7 @@ Time series & data visualization project identifying economic patterns.
 
 <!-- Streak -->
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=dktamta&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=dktamta&theme=tokyonight&hide_border=true"/>
 </p>
 
 <!-- Activity Graph -->
