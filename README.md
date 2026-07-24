@@ -125,9 +125,8 @@ Time series & data visualization project identifying economic patterns.
 
 <!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dktamta&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dktamta&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 </p>
-
 <!-- Stats + Languages -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dktamta&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800"/>
