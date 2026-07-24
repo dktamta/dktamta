@@ -121,19 +121,27 @@ Time series & data visualization project identifying economic patterns.
 
 ---
 
-## 📊 GitHub Stats (Active Since Oct 2025)
+## 📊 GitHub Stats
 
+<!-- Trophies -->
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dktamta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dktamta&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dktamta&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
+<!-- Stats + Languages -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dktamta&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dktamta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dktamta&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
+<!-- Streak -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dktamta&theme=tokyonight" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dktamta&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dktamta&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
