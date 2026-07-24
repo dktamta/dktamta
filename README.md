@@ -122,6 +122,12 @@ Time series & data visualization project identifying economic patterns.
 ---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dktamta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dktamta&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
+
 <!-- Streak -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dktamta&theme=tokyonight&hide_border=true"/>
