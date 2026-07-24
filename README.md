@@ -34,9 +34,9 @@ Focused on solving real-world business problems using data-driven strategies.
 
 <!-- Profile Views + Followers -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/YOURUSERNAME?label=Followers&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/YOURUSERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=dktamta&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/dktamta?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/dktamta?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" />
 </p>
 
 ---
@@ -156,4 +156,4 @@ Time series & data visualization project identifying economic patterns.
 
 ---
 
-⭐ “Without data, you're just another person with an opinion.”
+⭐ "Without data, you're just another person with an opinion."
