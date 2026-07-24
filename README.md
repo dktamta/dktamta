@@ -122,17 +122,6 @@ Time series & data visualization project identifying economic patterns.
 ---
 
 ## 📊 GitHub Stats
-
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dktamta&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-</p>
-<!-- Stats + Languages -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dktamta&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dktamta&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
-
 <!-- Streak -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dktamta&theme=tokyonight&hide_border=true"/>
